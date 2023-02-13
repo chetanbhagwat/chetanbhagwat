@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 <h3 align="center">A young professional QA Engineer from India 🇮🇳</h3>
 <p align="left"> <img src=https://komarev.com/ghpvc/?username=chetanbhagwat alt=chetanbhagwat/> </p>
 
- 
+ <a target="_blank" href="https://www.amazon.in/s?k=software+testing+books&amp;crid=1TPO4PE7FNVRO&amp;sprefix=software+Testing+books%252Caps%252C383&amp;ref=nb_sb_ss_ts-doa-p_1_22&_encoding=UTF8&tag=congobiz-21&linkCode=ur2&linkId=caa12527b4cfd4d31051846050a10799&camp=3638&creative=24630">Software Testing Books</a>
  
 - 💬 Ask me about **software testing**
 
